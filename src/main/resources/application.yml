@@ -1,0 +1,7 @@
+server:
+  #服务端口
+  port: 9002
+spring:
+  profiles:
+    # 环境 开发dev，测试test，生产prod
+    active: dev
